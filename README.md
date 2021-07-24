@@ -1,6 +1,6 @@
 # calender_ui
 
-A new Flutter UI project on Calender
+A new Flutter Carosel Calender UI
 
 ## Getting Started
 
